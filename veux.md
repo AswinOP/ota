@@ -1,0 +1,8 @@
+- Synced with Latest Sources 
+- February Security Patch
+- Added OTA support
+- Added OnePlus Dolby
+- Improved optimization
+- Fixed Display Glitches While Toggling Night Light On/Off, etc.
+- Fixed All Modes In MIUI Camera 
+- Fixed Doze Brightness
